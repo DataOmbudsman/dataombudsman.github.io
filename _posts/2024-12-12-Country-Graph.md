@@ -1,5 +1,5 @@
 ---
-title: Country Graphy
+title: Country Graph
 date: 2024-12-12 08:35:00 +0100
 categories: [visualization]
 tags: [javascript, github]    # TAG names should always be lowercase
