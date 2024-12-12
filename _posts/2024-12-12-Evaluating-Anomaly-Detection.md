@@ -1,8 +1,8 @@
 ---
 title: Performance Evaluation of Anomaly Detection Methods
 date: 2024-12-12 18:35:00 +0100
-categories: [blog]
-tags: [ml, evaluation]    # TAG names should always be lowercase
+categories: [blog post]
+tags: [machine learning, anomaly detection, evaluation]    # TAG names should always be lowercase
 description: Blog posts about unsupervised ML evaluation
 ---
 

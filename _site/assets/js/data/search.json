@@ -3,8 +3,8 @@
   {
     "title": "Performance Evaluation of Anomaly Detection Methods",
     "url": "/posts/Evaluating-Anomaly-Detection/",
-    "categories": "blog",
-    "tags": "ml, evaluation",
+    "categories": "blog post",
+    "tags": "machine learning, anomaly detection, evaluation",
     "date": "2024-12-12 18:35:00 +0100",
     
 
@@ -21,7 +21,7 @@
     "title": "Country Graph",
     "url": "/posts/Country-Graph/",
     "categories": "visualization",
-    "tags": "javascript, github",
+    "tags": "graph, javascript, github",
     "date": "2024-12-12 08:35:00 +0100",
     
 
