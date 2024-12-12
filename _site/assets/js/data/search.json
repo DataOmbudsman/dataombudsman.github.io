@@ -1,7 +1,24 @@
 [
   
   {
-    "title": "Country Graphy",
+    "title": "Performance Evaluation of Anomaly Detection Methods",
+    "url": "/posts/Evaluating-Anomaly-Detection/",
+    "categories": "blog",
+    "tags": "ml, evaluation",
+    "date": "2024-12-12 18:35:00 +0100",
+    
+
+
+
+
+
+    
+    "snippet": "At Balabit (now One Identity), the data science team I was part of worked on unsupervised anomaly detection methods. We quickly noticed that performance evaluation—an essential aspect of any ML pro...",
+    "content": "At Balabit (now One Identity), the data science team I was part of worked on unsupervised anomaly detection methods. We quickly noticed that performance evaluation—an essential aspect of any ML project—was far less standardized in this area compared to supervised learning, with fewer practical resources available. To address this, I documented our experiences and the solutions we developed. The post resonated with others facing similar challenges, leading to follow-up feedback and questions. I’m also pleased to have introduced a metric I designed (Part 3) and shared a unique aspect of ROC-AUC (Part 4) that I haven’t seen discussed elsewhere.Here’s the series of posts:  How to Evaluate Unsupervised Anomaly Detection for User Behavior Analytics  Performance Metrics for Anomaly Detection Algorithms in Security Analytics  Novel Performance Metrics for Anomaly Detection Algorithms  A New Look at an Old Friend - How to visualize and generalize ROC-AUC"
+  },
+  
+  {
+    "title": "Country Graph",
     "url": "/posts/Country-Graph/",
     "categories": "visualization",
     "tags": "javascript, github",
@@ -14,7 +31,7 @@
 
     
     "snippet": "The country graph is an interactive graph visualization of the countries of the world. I wanted to experiment with JavaScript and D3, so I used them to bring an idea I’d been mulling over to life. ...",
-    "content": "The country graph is an interactive graph visualization of the countries of the world. I wanted to experiment with JavaScript and D3, so I used them to bring an idea I’d been mulling over to life. (Spoiler: I didn’t end up becoming a frontend engineer!)Check it out at https://dataombudsman.github.io/country-graph/!"
+    "content": "The country graph is an interactive graph visualization of the countries of the world. I wanted to experiment with JavaScript and D3, so I used them to bring an idea I’d been mulling over to life. (Spoiler: I didn’t end up becoming a frontend engineer!)Check it out by clicking on the image or at https://dataombudsman.github.io/country-graph/"
   },
   
   {
@@ -30,8 +47,8 @@
 
 
     
-    "snippet": "This site showcases my work as a data scientist, including selected projects and blog posts. Take a look around to get a sense of what I do, and feel free to reach out to me via email.",
-    "content": "This site showcases my work as a data scientist, including selected projects and blog posts. Take a look around to get a sense of what I do, and feel free to reach out to me via email."
+    "snippet": "This site showcases my work as a data scientist, including selected projects and blog posts. Take a look around to get a sense of what I do, and feel free to reach out to me via GitHub or email.",
+    "content": "This site showcases my work as a data scientist, including selected projects and blog posts. Take a look around to get a sense of what I do, and feel free to reach out to me via GitHub or email."
   }
   
 ]
