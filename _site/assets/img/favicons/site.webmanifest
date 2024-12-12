@@ -1,8 +1,8 @@
 
 
 {
-  "name": "MyDataBlog",
-  "short_name": "MyDataBlog",
+  "name": "Dataset",
+  "short_name": "Dataset",
   "description": "A data science blog and portfolio site.",
   "icons": [
     {

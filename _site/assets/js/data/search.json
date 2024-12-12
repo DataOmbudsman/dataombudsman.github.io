@@ -1,6 +1,23 @@
 [
   
   {
+    "title": "Country Graphy",
+    "url": "/posts/Country-Graph/",
+    "categories": "visualization",
+    "tags": "javascript, github",
+    "date": "2024-12-12 08:35:00 +0100",
+    
+
+
+
+
+
+    
+    "snippet": "The country graph is an interactive graph visualization of the countries of the world. I wanted to experiment with JavaScript and D3, so I used them to bring an idea I’d been mulling over to life. ...",
+    "content": "The country graph is an interactive graph visualization of the countries of the world. I wanted to experiment with JavaScript and D3, so I used them to bring an idea I’d been mulling over to life. (Spoiler: I didn’t end up becoming a frontend engineer!)Check it out at https://dataombudsman.github.io/country-graph/!"
+  },
+  
+  {
     "title": "Kickoff",
     "url": "/posts/Kickoff/",
     "categories": "",

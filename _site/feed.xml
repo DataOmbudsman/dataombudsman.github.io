@@ -2,21 +2,45 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4000/</id>
-  <title>MyDataBlog</title>
+  <title>Dataset</title>
   <subtitle>A data science blog and portfolio site.</subtitle>
-  <updated>2024-12-11T16:11:21+01:00</updated>
+  <updated>2024-12-12T16:11:22+01:00</updated>
   <author>
-    <name>AF</name>
+    <name>Arpad Fulop</name>
     <uri>http://localhost:4000/</uri>
   </author>
   <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
-  <rights> © 2024 AF </rights>
+  <rights> © 2024 Arpad Fulop </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Country Graphy</title>
+    <link href="http://localhost:4000/posts/Country-Graph/" rel="alternate" type="text/html" title="Country Graphy" />
+    <published>2024-12-12T08:35:00+01:00</published>
+  
+    <updated>2024-12-12T08:35:00+01:00</updated>
+  
+    <id>http://localhost:4000/posts/Country-Graph/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Country-Graph/" />
+    <author>
+      <name>Arpad Fulop</name>
+    </author>
+
+  
+    
+    <category term="visualization" />
+    
+  
+
+  <summary>See what countries are neighbors</summary>
+
+  </entry>
 
   
   <entry>
@@ -29,7 +53,7 @@
     <id>http://localhost:4000/posts/Kickoff/</id>
     <content type="text/html" src="http://localhost:4000/posts/Kickoff/" />
     <author>
-      <name>AF</name>
+      <name>Arpad Fulop</name>
     </author>
 
   
