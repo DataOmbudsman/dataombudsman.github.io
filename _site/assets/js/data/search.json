@@ -4,7 +4,7 @@
     "title": "Mouse Dynamics Data Set",
     "url": "/posts/Mouse-Movement-Data-Set/",
     "categories": "data",
-    "tags": "",
+    "tags": "github",
     "date": "2024-12-13 08:35:00 +0100",
     
 
@@ -31,7 +31,7 @@
 
     
     "snippet": "At Balabit (now One Identity), the data science team I was part of worked on unsupervised anomaly detection methods. We quickly noticed that performance evaluation—an essential aspect of any ML pro...",
-    "content": "At Balabit (now One Identity), the data science team I was part of worked on unsupervised anomaly detection methods. We quickly noticed that performance evaluation—an essential aspect of any ML project—was far less standardized in this area compared to supervised learning, with fewer practical resources available. To address this, I documented our experiences and the solutions we developed. The post resonated with others facing similar challenges, leading to follow-up feedback and questions. I’m also pleased to have introduced a metric I designed (Part 3) and shared a unique aspect of ROC-AUC (Part 4) that I haven’t seen discussed elsewhere.Here’s the series of posts:  How to Evaluate Unsupervised Anomaly Detection for User Behavior Analytics  Performance Metrics for Anomaly Detection Algorithms in Security Analytics  Novel Performance Metrics for Anomaly Detection Algorithms  A New Look at an Old Friend - How to visualize and generalize ROC-AUC"
+    "content": "At Balabit (now One Identity), the data science team I was part of worked on unsupervised anomaly detection methods. We quickly noticed that performance evaluation—an essential aspect of any ML project—was far less standardized in this area compared to supervised learning, with fewer practical resources available. To address this, I documented our experiences and the solutions we developed in a series of blog posts. The posts resonated with others facing similar challenges, leading to follow-up feedback and questions. I’m also pleased to have introduced a metric I designed (Part 3) and shared a unique aspect of ROC-AUC (Part 4) that I haven’t seen discussed elsewhere.Here you can read the series:  How to Evaluate Unsupervised Anomaly Detection for User Behavior Analytics  Performance Metrics for Anomaly Detection Algorithms in Security Analytics  Novel Performance Metrics for Anomaly Detection Algorithms  A New Look at an Old Friend - How to visualize and generalize ROC-AUC"
   },
   
   {

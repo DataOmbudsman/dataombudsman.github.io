@@ -2,7 +2,7 @@
 title: Mouse Dynamics Data Set
 date: 2024-12-13 08:35:00 +0100
 categories: [data]
-tags:    # TAG names should always be lowercase
+tags: [github]   # TAG names should always be lowercase
 description: timestamp, x, y, button
 ---
 
