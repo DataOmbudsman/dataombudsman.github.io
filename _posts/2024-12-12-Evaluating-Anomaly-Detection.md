@@ -1,5 +1,5 @@
 ---
-title: Performance Evaluation of Anomaly Detection Methods
+title: Performance Evaluation of Anomaly Detection
 date: 2024-12-12 18:35:00 +0100
 categories: [blog post]
 tags: [machine learning, anomaly detection, evaluation]    # TAG names should always be lowercase
