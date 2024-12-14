@@ -4,19 +4,43 @@
   <id>http://localhost:4000/</id>
   <title>Dataset</title>
   <subtitle>A data science blog and portfolio site.</subtitle>
-  <updated>2024-12-13T17:04:54+01:00</updated>
+  <updated>2024-12-14T21:43:59+01:00</updated>
   <author>
-    <name>Arpad Fulop</name>
+    <name>AF</name>
     <uri>http://localhost:4000/</uri>
   </author>
   <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
-  <rights> © 2024 Arpad Fulop </rights>
+  <rights> © 2024 AF </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Incremental DBSCAN clustering</title>
+    <link href="http://localhost:4000/posts/Incremental-DBSCAN/" rel="alternate" type="text/html" title="Incremental DBSCAN clustering" />
+    <published>2024-12-14T16:35:00+01:00</published>
+  
+    <updated>2024-12-14T16:35:00+01:00</updated>
+  
+    <id>http://localhost:4000/posts/Incremental-DBSCAN/</id>
+    <content type="text/html" src="http://localhost:4000/posts/Incremental-DBSCAN/" />
+    <author>
+      <name>AF</name>
+    </author>
+
+  
+    
+    <category term="package" />
+    
+  
+
+  <summary>A Python implementation</summary>
+
+  </entry>
 
   
   <entry>
@@ -24,12 +48,12 @@
     <link href="http://localhost:4000/posts/Mouse-Movement-Data-Set/" rel="alternate" type="text/html" title="Mouse Dynamics Data Set" />
     <published>2024-12-13T08:35:00+01:00</published>
   
-    <updated>2024-12-13T08:35:00+01:00</updated>
+    <updated>2024-12-13T17:05:22+01:00</updated>
   
     <id>http://localhost:4000/posts/Mouse-Movement-Data-Set/</id>
     <content type="text/html" src="http://localhost:4000/posts/Mouse-Movement-Data-Set/" />
     <author>
-      <name>Arpad Fulop</name>
+      <name>AF</name>
     </author>
 
   
@@ -48,12 +72,12 @@
     <link href="http://localhost:4000/posts/Evaluating-Anomaly-Detection/" rel="alternate" type="text/html" title="Performance Evaluation of Anomaly Detection" />
     <published>2024-12-12T18:35:00+01:00</published>
   
-    <updated>2024-12-13T15:16:01+01:00</updated>
+    <updated>2024-12-13T17:05:22+01:00</updated>
   
     <id>http://localhost:4000/posts/Evaluating-Anomaly-Detection/</id>
     <content type="text/html" src="http://localhost:4000/posts/Evaluating-Anomaly-Detection/" />
     <author>
-      <name>Arpad Fulop</name>
+      <name>AF</name>
     </author>
 
   
@@ -77,7 +101,7 @@
     <id>http://localhost:4000/posts/Country-Graph/</id>
     <content type="text/html" src="http://localhost:4000/posts/Country-Graph/" />
     <author>
-      <name>Arpad Fulop</name>
+      <name>AF</name>
     </author>
 
   
@@ -101,7 +125,7 @@
     <id>http://localhost:4000/posts/Kickoff/</id>
     <content type="text/html" src="http://localhost:4000/posts/Kickoff/" />
     <author>
-      <name>Arpad Fulop</name>
+      <name>AF</name>
     </author>
 
   
