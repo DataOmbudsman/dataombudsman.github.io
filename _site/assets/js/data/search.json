@@ -1,6 +1,23 @@
 [
   
   {
+    "title": "Hungarian Locality Name Generator",
+    "url": "/posts/Hungarian-Locality-Name-Generator/",
+    "categories": "app",
+    "tags": "github, python, streamlit, machine learning",
+    "date": "2025-01-16 08:35:00 +0100",
+    
+
+
+
+
+
+    
+    "snippet": "I’ve always found city and village names fascinating—they feel like they hold hidden meanings that regular words don’t. So I wanted to see if I could generate entirely new locality names that don’t...",
+    "content": "I’ve always found city and village names fascinating—they feel like they hold hidden meanings that regular words don’t. So I wanted to see if I could generate entirely new locality names that don’t exist but still sound authentic. To do this, I trained a character-based LSTM on all ~3,100 Hungarian locality names and wrapped it in a Streamlit app so others could experiment with it as well.It was a fun project to practice PyTorch, and one discovery was that undertrained networks generated far more entertaining names. My personal favorites are Tokonya and Balatonhalász. Check out the app here and its repo here."
+  },
+  
+  {
     "title": "Incremental DBSCAN clustering",
     "url": "/posts/Incremental-DBSCAN/",
     "categories": "package",
